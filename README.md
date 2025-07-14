@@ -7,3 +7,4 @@ Memo Series for Winona Radio Observatory
 2. [WSU Radio Observatory Scouting Locations](PDFs/002_WSU_Radio_Observatory_Scouting_Locations.pdf) - An initial list of locations to collect RF environment data.
 3. [Mobile System Description](PDFs/003_Mobile_System_Desc.pdf) - A brief description of the system used our initial RF survey.
 4. [May 2025 Site Survey](PDFs/004_May2025_site_survey.pdf) - A survey of a site we could potentially lease.
+5. [Radio JOVE Campus Test](PDFs/005_Radio_JOVE_Campus_Test.pdf) - Testing out the Radio JOVE equipment and data collection on the WSU campus.
